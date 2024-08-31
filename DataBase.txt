@@ -1,0 +1,34 @@
+Data Storage:
+    we will store info of all users
+    file - data.txt   but files donnt really support the different kind of data
+    what should we do now waitt
+    DataBases: This guy wpuld store many kind of data , lets say binary , images , text, probably many more
+
+
+Types of DBS:
+    SQL | NoSQL
+    SQL: it will store data in a structured way , such as tables
+
+    NoSQL: {it stores objects} i.e the data is in object way 
+        lets sat: {
+        name: "Harish"
+        age:21
+        }
+    
+    we will look at the MongoDB
+
+what and why:
+    inorde to storee the data 
+
+Terminologies:
+    collections, documents, schemas, keys, models...
+
+
+Database -> Collections -> Document -> 
+
+
+CODE                DATABASE
+------------------------------------------------------
+mongoose.connect ->     database created
+model create     ->     collection 
+CREATE           ->     document
